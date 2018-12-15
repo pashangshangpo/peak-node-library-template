@@ -1,6 +1,6 @@
 # 简介
 
-开发 Javascript 公共脚本
+开发 node 工具库
 
 ## 开发
 
@@ -20,5 +20,3 @@ yarn build
 ```
 import xx from 'library'
 ```
-
-在浏览器端可以使用 window.library 来访问
