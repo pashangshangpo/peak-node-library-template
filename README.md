@@ -9,12 +9,6 @@ yarn
 yarn start
 ```
 
-## 生产
-
-```
-yarn build
-```
-
 ## 使用
 
 ```
